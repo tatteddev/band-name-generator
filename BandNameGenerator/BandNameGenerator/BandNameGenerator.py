@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Hello, World!\Hello, Solar System!\nHello Galaxy!")
