@@ -1,1 +1,3 @@
-print("Hello, World!\Hello, Solar System!\nHello Galaxy!")
+name = input("What is your name?\n")
+
+print ("Hello, "  + name)
